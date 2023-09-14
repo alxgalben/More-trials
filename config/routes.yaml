@@ -1,0 +1,7 @@
+index:
+   path: /
+   controller: App\Controller\DefaultController::index
+
+testindex:
+   path: /homeone
+   controller: App\Controller\testController::testindex
